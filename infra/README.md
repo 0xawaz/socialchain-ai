@@ -1,14 +1,19 @@
-# SocialChain Infrastructure
+# Social Chain Infrastructure
 
 ## Marlin
-This build is based on https://docs.marlin.org/user-guides/oyster/instances/quickstart/build
 
+This build is based on [Marlin Oyster doc](https://docs.marlin.org/user-guides/oyster/instances/quickstart/build).
+
+## Marlin Default inclave image
 
 ```bash
-docker image build -t enclave:latest .
+docker image build -t enclave:0xawaz .
 ```
 
-## SocialChain Value proposition
+## Social Chain Enclave image
+Coming soon
+
+## Social Chain Value proposition
 
 ### Infrastructure Security
 
