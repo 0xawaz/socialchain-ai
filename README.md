@@ -3,11 +3,6 @@
 ## Business Use Case
 
 ## Demo - MVP
-Work on a video that will promote the solution - 1 min video?
-
-Reveal what happened and that people got hacked and they don't know it yet.
-
-I have 10 wallets, and all wallet owners who clicked are now victims of teh attack.
 
 ## Product
 
