@@ -1,5 +1,5 @@
 # base image
-FROM alpine:3.17
+FROM alpine:3.16
 
 # install dependency tools
 RUN apk add --no-cache net-tools iptables iproute2 wget
