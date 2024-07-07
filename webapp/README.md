@@ -2,9 +2,9 @@
   <br />
   <br />
   
-  <img src="./assets/images/logo.png" />
+  <img src="./socialchain-ai/assets/images/logo.png" />
 
-  <h1 align="center">SocialChain Webapp</h1>
+  <h1 align="center">SocialChain.ai webapp</h1>
 Fully responsive landing page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
 </div>
